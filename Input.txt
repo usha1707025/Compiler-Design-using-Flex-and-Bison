@@ -1,0 +1,89 @@
+void main_function()
+start
+   integer a,b,c,d,e,f,m,n,x,y,z semicolon
+   float g,h semicolon
+   a-> 10 semicolon
+   b-> 4 semicolon
+   c-> 20 semicolon
+   d-> 2 semicolon
+   e-> 1 semicolon1
+   
+   user_input(z) semicolon
+   output(square(z) sum z sum 1) semicolon
+   
+   m-> square(a) minus  cube(b) sum c semicolon
+   prime_number(m) semicolon
+
+   n-> a sum c div d minus b mul e semicolon   
+   even_odd(n) semicolon
+   
+   user_input(f) semicolon
+   factorial(f) semicolon
+   fibonacci_series(f) semicolon
+   summation(f) semicolon
+   divisors(f) semicolon
+   
+      
+   ## single line command
+   
+   
+   whether b is_equal 0
+   do
+		1000 mul b minus b semicolon
+   done
+   ewhether a is_not_equal 0
+   do
+		1000 div a minus a semicolon
+   done
+   otherwise
+   do
+		power(1000,b) semicolon
+   done
+   
+   whether a less_than_or_equal 0
+   do
+		whether b greater_than_or_equal 0
+		do 
+			square_root(a) sum square_root(b) semicolon
+		done
+		otherwise
+		do
+			square_root(a) sum b semicolon
+		done
+	done
+	otherwise
+	do
+		a sum b semicolon
+	done
+	
+	switch(d)
+	do
+		case 1:
+			10 mul d semicolon
+		case 2:
+			10 div d semicolon
+		default:
+			10 sum d semicolon
+	done
+	
+	# Multiple line
+	     command #
+		 
+   while e less_than_or_equal 10
+   do
+		a mul e semicolon
+   done
+
+
+   for i in_range 1 to 10
+   do
+		z sum+ semicolon	
+   done
+   
+   do
+		a mul e semicolon
+   done
+   while e less_than_or_equal 10
+
+   
+end
